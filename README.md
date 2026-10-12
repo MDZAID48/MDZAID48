@@ -38,9 +38,6 @@
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDZAID48&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 📫 Connect with me
 - 📧 zaidsaudagar237@gmail.com
